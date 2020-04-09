@@ -14,11 +14,14 @@ public class AFunctions {
 //		String topper = giveMeNameOFFirstStuent();
 //		System.out.println(topper);
 		
+		//15,10,25  --->> argumnets
 		addThreeNumbers(15, 10, 25);
 		
 	}
 	
+	//Methos with argument and a return type;
 	
+	// a,b,c --> parameters;
 	static void addThreeNumbers(int a, int b, int c) {
 		System.out.println(a+b+c);
 	}
