@@ -4,7 +4,6 @@ public class Country {
 
 	String name;
 	
-	
 	void runThegovernment() {
 		System.out.println("PM or president runs it");
 	}
