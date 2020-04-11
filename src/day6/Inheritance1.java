@@ -36,20 +36,24 @@ public class Inheritance1 {
 		
 	//	s1.howDoesHeSpendTime();
 		
-		
-	GrandSon g1= new GrandSon();
 //		
-		Scanner sc= new Scanner(System.in);
-		System.out.println("Input the age of Grandson: ");
-		g1.age=sc.nextInt();
-		
-//		g1.eats();
-		g1.doesCry();
+//	GrandSon g1= new GrandSon();
+////		
+//		Scanner sc= new Scanner(System.in);
+//		System.out.println("Input the age of Grandson: ");
+//		g1.age=sc.nextInt();
 //		
+////		g1.eats();
+//		g1.doesCry();
+////		
 		
 //		Daughter d1 = new Daughter();
 //		d1.age =25;
 //		d1.howDoesSheSpendTime();
+		
+		
+		Son s1= new Son();
+		s1.eats();
 		
 	}
 

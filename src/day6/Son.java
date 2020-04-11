@@ -8,10 +8,10 @@ public class Son extends Father{
 
 	//age??
 	
-//	//Override
-//	void eats() {
-//		System.out.println("Eats Wai Wai");
-//	}
+	//Override
+	void eats() {
+		System.out.println("Eats Wai Wai");
+	}
 	
 	void howDoesHeSpendTime() {
 		if(age<20) {
